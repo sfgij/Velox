@@ -1,6 +1,6 @@
 <div align="center">
 
-![Velox-4|690x198](upload://3YV7XzCB7jHQ6O2Uvm69pgs26KQ.jpeg)
+![Velox-4|690x198](./Images/Velox-4.png)
 :floppy_disk: Download (Upload) | :open_book: [Github](https://github.com/sfgij/Velox)
 Velox is a general UI module that is perfect for making your GUI fit on all devices. Complete with features that help your GUI look the same whether it's on a Phone, Tablet, or Monitor.  
 </div>
@@ -216,16 +216,6 @@ because no data is needed for this example
 
 [/details]
 [/details]
-
----
-## Poll(s)
-[poll type=regular results=always public=true chartType=bar]
-# How useful is this to you?
-* Very
-* Somewhat
-* Not really
-* Not at all
-[/poll]
 
 ---
 Made with :heart: by Sfgij
