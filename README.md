@@ -1,7 +1,7 @@
 <div align="center">
 
 ![Velox-4|690x198](./Images/Velox-4.png)
-:floppy_disk: Download (Upload) | :open_book: [Github](https://github.com/sfgij/Velox)
+:floppy_disk: Download (./Release/VeloxModule.rbxm) | :open_book: [Github](https://github.com/sfgij/Velox)
 Velox is a general UI module that is perfect for making your GUI fit on all devices. Complete with features that help your GUI look the same whether it's on a Phone, Tablet, or Monitor.  
 </div>
 (if this gets enough attention i'll make a test game)
